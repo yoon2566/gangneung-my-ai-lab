@@ -1,0 +1,62 @@
+[
+  {
+    "width": 360,
+    "height": 740,
+    "textScale": 1,
+    "overflow": false,
+    "sendVisible": true,
+    "lessonCount": 22,
+    "flows": "pass",
+    "errors": []
+  },
+  {
+    "width": 390,
+    "height": 844,
+    "textScale": 1,
+    "overflow": false,
+    "sendVisible": true,
+    "lessonCount": 22,
+    "flows": "pass",
+    "errors": []
+  },
+  {
+    "width": 360,
+    "height": 640,
+    "textScale": 1.25,
+    "overflow": false,
+    "sendVisible": true,
+    "lessonCount": 22,
+    "flows": "pass",
+    "errors": []
+  },
+  {
+    "width": 390,
+    "height": 400,
+    "textScale": 1,
+    "overflow": false,
+    "sendVisible": true,
+    "lessonCount": 22,
+    "flows": "pass",
+    "errors": []
+  },
+  {
+    "width": 768,
+    "height": 900,
+    "textScale": 1,
+    "overflow": false,
+    "sendVisible": true,
+    "lessonCount": 22,
+    "flows": "pass",
+    "errors": []
+  },
+  {
+    "width": 1440,
+    "height": 1000,
+    "textScale": 1,
+    "overflow": false,
+    "sendVisible": true,
+    "lessonCount": 22,
+    "flows": "pass",
+    "errors": []
+  }
+]
